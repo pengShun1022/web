@@ -1,0 +1,6 @@
+[submodule "libcommon"]
+	path = libcommon
+	url = https://github.com/pengShun1022/libcommon.git
+[submodule "src/libcommon"]
+	path = src/libcommon
+	url = https://github.com/pengShun1022/libcommon.git
